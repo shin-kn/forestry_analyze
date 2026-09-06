@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+*.pyd
+build/
+dist/
+wheels/
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv
+venv/
+env/
+
+# PDF
+*.pdf
+
+# 非公開資料（誤公開防止）
+ref/internship_program/
+
+# ユーザー専用ディレクトリ（非公開）
+ref_for_user/
