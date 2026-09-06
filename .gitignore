@@ -25,3 +25,6 @@ ref/internship_program/
 
 # ユーザー専用ディレクトリ（非公開）
 ref_for_user/
+
+# 非公開作業用
+private/
