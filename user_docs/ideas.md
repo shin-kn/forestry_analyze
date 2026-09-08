@@ -46,6 +46,7 @@
 定期的に切って、また植える。
 #### レポート
 [参照レポート](../reports/street_tree_forestry.md)
+[街路樹で収益が上がる樹種は存在するか](../reports/street_tree_species_revenue.md)
 
 
 
